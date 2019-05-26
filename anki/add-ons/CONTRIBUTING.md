@@ -19,15 +19,13 @@
 
 Are you eager to contribute, but don't have the ability/time to work on the project yourself? Then please consider using one of the buttons below to support my efforts by pledging your support on <strong>Patreon</strong>, or by buying me a <strong>coffee</strong>. Each and every contribution is greatly appreciated and will help me maintain and improve my Anki add-ons as time goes by!
 
-<br>
+<p align="center">
+<a href="https://www.patreon.com/glutanimate" rel="nofollow" title="Support me on Patreon 😄"><img src="https://glutanimate.com/logos/patreon_button.svg"></a>      <a href="https://ko-fi.com/X8X0L4YV" rel="nofollow" title="Buy me a coffee 😊"><img src="https://glutanimate.com/logos/kofi_button.svg"></a>
+</p>
 
-<center><a href="https://www.patreon.com/glutanimate" rel="nofollow" title="Support me on Patreon 😄"><img src="https://glutanimate.com/logos/patreon_button.svg"></a>      <a href="https://ko-fi.com/X8X0L4YV" rel="nofollow" title="Buy me a coffee 😊"><img src="https://glutanimate.com/logos/kofi_button.svg"></a></center>
-
-<br>
-
-<center>
+<p align="center">
 <i>Thank you!</i>
-</center>
+</p>
 
 
 
