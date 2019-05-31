@@ -3,7 +3,7 @@
 <h2 align="center">How to Contribute to my Anki Add-ons</h2>
 <p align="center"><img src="https://glutanimate.com/logos/banner.svg"></p>
 
-:wave: Hi! Thanks for considering to contribute :+1:! The following document tries to summarize all of the different ways in which you can support the development of my add-ons, be it as an end-user or programmer.
+:wave: Hi! Thanks for deciding to contribute! The following document tries to summarize all of the different ways in which you can support the development of my add-ons, be it as an end-user or programmer.
 
 
 **Table of Contents**
