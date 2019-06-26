@@ -7,12 +7,12 @@
 
 
 **Table of Contents**
-- [Supporting my Work Directly](#supporting-my-work-directly)
-- [Reporting a Bug or Suggesting a New Feature](#reporting-a-bug-or-suggesting-a-new-feature)
-- [Contributing to the Codebase](#contributing-to-the-codebase)
-  - [Scope of Changes](#scope-of-changes)
-  - [Coding Style Conventions](#coding-style-conventions)
-  - [Submitting a Pull Request](#submitting-a-pull-request)
+- [Supporting my Work Directly](#Supporting-my-Work-Directly)
+- [Reporting a Bug or Suggesting a New Feature](#Reporting-a-Bug-or-Suggesting-a-New-Feature)
+- [Contributing to the Codebase](#Contributing-to-the-Codebase)
+  - [Scope of Changes](#Scope-of-Changes)
+  - [Coding Style Conventions](#Coding-Style-Conventions)
+  - [Submitting a Pull Request](#Submitting-a-Pull-Request)
 
 
 ### Supporting my Work Directly
@@ -31,18 +31,21 @@ Are you eager to contribute, but don't have the ability/time to work on the proj
 
 ### Reporting a Bug or Suggesting a New Feature
 
+This section guides you through submitting bug reports and feature requests. Following these guidelines helps the community and me to understand your report, reproduce the behavior, and find related reports.
+
 > **Note**: Most of the actions below require that you [sign up to GitHub](https://github.com/join). Registration only takes a moment and allows you to participate in the development of all of your favorite Anki add-ons (not just mine!).
 > 
 > Using the issue tracker on GitHub is the fastest way to get in touch with me, as I don't get notified of your reviews or forum posts. It also greatly reduces my workload because formalities such as checking for existing reports and asking for debug information are automatically taken care of.
 > 
 > You can also contact me by submitting a new thread on Anki's [αdd-on support forums](https://anki.tenderapp.com/discussions/add-ons), or messaging me at <a href="mailto:ankiglutanimate@gmail.com?subject=Support%20request%20concerning%20&lt;add-on&gt;%3A&amp;body=Please%20describe%20your%20request%20here%20while%20providing%20as%20many%20details%20as%20possible%20(e.g.%20exact%20instructions%20to%20reproduce%20the%20problem,%20screenshots, info%20about%20your%20Anki%20version%20and%20operating%20system,%20etc.) "><img src="https://glutanimate.com/logos/email.svg"> ankiglutanimate@gmail.com</a>, but the issue tracker is the fastest way to get my attention.
 
+Here is how you would ideally report a bug or suggest new feature:
 
-This section guides you through submitting bug reports and feature requests. Following these guidelines helps maintainers and the community understand your report, reproduce the behavior, and find related reports:
-
-1. Start by clicking on the issues tab of the repository in question:
+1. Start by clicking on the issues tab of the repository in question.:
 
 <img src="https://help.github.com/assets/images/help/repository/repo-tabs-issues.png">
+
+    If you don't know how to find the repository of a particular add-on: It's usually linked at the bottom of the description text on AnkiWeb (just search for 'github' on the page).
 
 2. Next, please ensure that the bug or suggestion has not been submitted before by performing a cursory search through the existing issues:
 
