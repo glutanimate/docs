@@ -43,21 +43,21 @@ Here is how you would ideally report a bug or suggest new feature:
 
 1. Start by clicking on the issues tab of the repository in question.:
 
-<img src="https://help.github.com/assets/images/help/repository/repo-tabs-issues.png">
+    <img src="https://help.github.com/assets/images/help/repository/repo-tabs-issues.png">
 
     If you don't know how to find the repository of a particular add-on: It's usually linked at the bottom of the description text on AnkiWeb (just search for 'github' on the page).
 
 2. Next, please ensure that the bug or suggestion has not been submitted before by performing a cursory search through the existing issues:
 
-<img src="https://help.github.com/assets/images/help/issues/issues_search_bar.png">
+    <img src="https://help.github.com/assets/images/help/issues/issues_search_bar.png">
 
 3. If you're unable to find an open issue, click on **New Issue** to open a new one:
 
-<img src="https://help.github.com/assets/images/help/issues/new_issues_button.png">
+    <img src="https://help.github.com/assets/images/help/issues/new_issues_button.png">
 
 4. If there are multiple issue types, click **Get started** next to the type of issue you'd like to open:
 
-<img src="https://help.github.com/assets/images/help/issues/issue_template_get_started_button.png">
+    <img src="https://help.github.com/assets/images/help/issues/issue_template_get_started_button.png">
 
 5. Make sure to fill out the provided **description template** as best as you can, and enter a descriptive **title** that concisely summarizes the issue.
 
